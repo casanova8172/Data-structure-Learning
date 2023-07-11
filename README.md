@@ -1,2 +1,2 @@
 # Kuch_nhi_hoskta
-just starting learning github 
+just started learning github 
