@@ -1,0 +1,43 @@
+body {
+    background-color: azure;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: hsl(147, 81%, 39%);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+#topics {
+    width: 30%;
+}
+
+#videoPlayer {
+    width: 60%;
+    
+}
+
+.topic {
+    cursor: pointer;
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: wheat;
+}
+
+.topic:hover {
+    background-color: blue;
+}
+
+.selected {
+    background-color: #ccc;
+}
